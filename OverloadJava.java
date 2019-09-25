@@ -1,11 +1,9 @@
 package FeetNumber;
 /*
-Mila Arkhiptcova
+Mila 
 overloaded Java methods (four different methods) that return the difference of two parameters. 
-Your methods should contain the logic to return the difference of the larger parameter – 
+Your methods should contain the logic to return the difference of the larger parameter â€“ 
 smaller parameter, regardless of parameter order. 
-09/24/2019
-Bellevue University
 OverloadJava.java
 */
 public class OverloadJava {
